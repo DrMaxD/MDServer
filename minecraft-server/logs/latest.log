@@ -1,25 +1,29 @@
-[18:29:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:29:13] [ServerMain/INFO]: Loaded 1370 recipes
-[18:29:13] [ServerMain/INFO]: Loaded 1481 advancements
-[18:29:13] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[18:29:13] [Server thread/INFO]: Loading properties
-[18:29:13] [Server thread/INFO]: Default game type: SURVIVAL
-[18:29:13] [Server thread/INFO]: Generating keypair
-[18:29:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:29:13] [Server thread/INFO]: Using epoll channel type
-[18:29:13] [Server thread/INFO]: Preparing level "world"
-[18:29:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:29:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:29:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:29:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:29:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:29:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:29:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:29:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:29:16] [Server thread/INFO]: Time elapsed: 3287 ms
-[18:29:16] [Server thread/INFO]: Done (3.561s)! For help, type "help"
-[18:29:25] [User Authenticator #1/INFO]: UUID of player Dr_MaxD is f4da8875-445c-40a1-bb69-3cc44f36512d
-[18:29:26] [Server thread/INFO]: Dr_MaxD[/192.168.7.250:50386] logged in with entity id 68 at (-3.5, 72.0, 2.354383135867573)
-[18:29:26] [Server thread/INFO]: Dr_MaxD joined the game
-[18:30:11] [Server thread/INFO]: Dr_MaxD lost connection: Disconnected
-[18:30:11] [Server thread/INFO]: Dr_MaxD left the game
+[20:22:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:22:30] [ServerMain/INFO]: Found new data pack file/drmaxd, loading it automatically
+[20:22:32] [ServerMain/INFO]: Loaded 1370 recipes
+[20:22:32] [ServerMain/INFO]: Loaded 1481 advancements
+[20:22:32] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[20:22:32] [Server thread/INFO]: Loading properties
+[20:22:32] [Server thread/INFO]: Default game type: SURVIVAL
+[20:22:32] [Server thread/INFO]: Generating keypair
+[20:22:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:22:32] [Server thread/INFO]: Using epoll channel type
+[20:22:32] [Server thread/INFO]: Preparing level "world"
+[20:22:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:22:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:22:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:22:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:22:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:22:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:22:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:22:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:22:36] [Server thread/INFO]: Time elapsed: 3390 ms
+[20:22:36] [Server thread/INFO]: Done (3.672s)! For help, type "help"
+[20:23:12] [User Authenticator #1/INFO]: UUID of player Dr_MaxD is f4da8875-445c-40a1-bb69-3cc44f36512d
+[20:23:13] [Server thread/INFO]: Dr_MaxD[/192.168.7.250:51277] logged in with entity id 57 at (-1.8961317694333808, 72.0, 1.5219788118351725)
+[20:23:13] [Server thread/INFO]: Dr_MaxD joined the game
+[20:26:58] [Server thread/INFO]: Made Dr_MaxD a server operator
+[20:27:45] [Server thread/INFO]: Dr_MaxD lost connection: Disconnected
+[20:27:45] [Server thread/INFO]: Dr_MaxD left the game
+[20:27:59] [Server thread/INFO]: Stopping server
+[20:27:59] [Server thread/INFO]: Saving players
