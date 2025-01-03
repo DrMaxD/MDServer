@@ -1,4 +1,5 @@
 To run minecraft server, run the following command:
+	cd minecraft-server
 	java -Xmx4G -Xms4G -jar minecraft_server.jar nogui
 
 To end server, enter the following on keyboard
