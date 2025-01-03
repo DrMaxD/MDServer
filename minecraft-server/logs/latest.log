@@ -1,25 +1,69 @@
-[20:34:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:34:41] [ServerMain/INFO]: Loaded 1370 recipes
-[20:34:41] [ServerMain/INFO]: Loaded 1481 advancements
-[20:34:41] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[20:34:41] [Server thread/INFO]: Loading properties
-[20:34:41] [Server thread/INFO]: Default game type: SURVIVAL
-[20:34:41] [Server thread/INFO]: Generating keypair
-[20:34:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:34:42] [Server thread/INFO]: Using epoll channel type
-[20:34:42] [Server thread/INFO]: Preparing level "world"
-[20:34:42] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:34:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:34:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:34:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:34:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:34:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:34:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[20:34:44] [Server thread/INFO]: Time elapsed: 2598 ms
-[20:34:44] [Server thread/INFO]: Done (2.841s)! For help, type "help"
-[20:35:18] [User Authenticator #1/INFO]: UUID of player Dr_MaxD is f4da8875-445c-40a1-bb69-3cc44f36512d
-[20:35:18] [Server thread/INFO]: Dr_MaxD[/192.168.7.250:51504] logged in with entity id 30 at (-1.8961317694333808, 72.0, 1.5219788118351725)
-[20:35:18] [Server thread/INFO]: Dr_MaxD joined the game
-[20:35:32] [Server thread/INFO]: Dr_MaxD lost connection: Disconnected
-[20:35:32] [Server thread/INFO]: Dr_MaxD left the game
-[20:35:54] [Server thread/INFO]: Stopping server
+[18:29:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:29:11] [ServerMain/INFO]: Loaded 1370 recipes
+[18:29:11] [ServerMain/INFO]: Loaded 1481 advancements
+[18:29:11] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[18:29:11] [Server thread/INFO]: Loading properties
+[18:29:11] [Server thread/INFO]: Default game type: SURVIVAL
+[18:29:11] [Server thread/INFO]: Generating keypair
+[18:29:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:29:12] [Server thread/INFO]: Using epoll channel type
+[18:29:12] [Server thread/INFO]: Preparing level "world"
+[18:29:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:29:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:29:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:29:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:29:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:29:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:29:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:29:15] [Server thread/INFO]: Time elapsed: 2894 ms
+[18:29:15] [Server thread/INFO]: Done (3.166s)! For help, type "help"
+[18:29:29] [User Authenticator #1/INFO]: UUID of player Dr_MaxD is f4da8875-445c-40a1-bb69-3cc44f36512d
+[18:29:29] [Server thread/INFO]: Dr_MaxD[/192.168.7.54:63549] logged in with entity id 21 at (-12.015206170981758, 91.0, -20.239860206769922)
+[18:29:30] [Server thread/INFO]: Dr_MaxD joined the game
+[18:29:51] [Server thread/INFO]: [Dr_MaxD: Disabling data pack [vanilla (built-in)]]
+[18:29:51] [Server thread/INFO]: Loaded 0 recipes
+[18:29:51] [Server thread/INFO]: Loaded 0 advancements
+[18:29:51] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/crafting_table' in progress file ./world/advancements/f4da8875-445c-40a1-bb69-3cc44f36512d.json - it doesn't exist anymore?
+[18:29:51] [Server thread/WARN]: Ignored advancement 'minecraft:adventure/adventuring_time' in progress file ./world/advancements/f4da8875-445c-40a1-bb69-3cc44f36512d.json - it doesn't exist anymore?
+[18:29:51] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/red_stained_glass' in progress file ./world/advancements/f4da8875-445c-40a1-bb69-3cc44f36512d.json - it doesn't exist anymore?
+[18:29:51] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/light_blue_stained_glass' in progress file ./world/advancements/f4da8875-445c-40a1-bb69-3cc44f36512d.json - it doesn't exist anymore?
+[18:29:51] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/brewing/glass_bottle' in progress file ./world/advancements/f4da8875-445c-40a1-bb69-3cc44f36512d.json - it doesn't exist anymore?
+[18:29:51] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/green_stained_glass' in progress file ./world/advancements/f4da8875-445c-40a1-bb69-3cc44f36512d.json - it doesn't exist anymore?
+[18:29:51] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/brown_stained_glass' in progress file ./world/advancements/f4da8875-445c-40a1-bb69-3cc44f36512d.json - it doesn't exist anymore?
+[18:29:51] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/light_gray_stained_glass' in progress file ./world/advancements/f4da8875-445c-40a1-bb69-3cc44f36512d.json - it doesn't exist anymore?
+[18:29:51] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/blue_stained_glass' in progress file ./world/advancements/f4da8875-445c-40a1-bb69-3cc44f36512d.json - it doesn't exist anymore?
+[18:29:51] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/orange_stained_glass' in progress file ./world/advancements/f4da8875-445c-40a1-bb69-3cc44f36512d.json - it doesn't exist anymore?
+[18:29:51] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/cyan_stained_glass' in progress file ./world/advancements/f4da8875-445c-40a1-bb69-3cc44f36512d.json - it doesn't exist anymore?
+[18:29:51] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/pink_stained_glass' in progress file ./world/advancements/f4da8875-445c-40a1-bb69-3cc44f36512d.json - it doesn't exist anymore?
+[18:29:51] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/black_stained_glass' in progress file ./world/advancements/f4da8875-445c-40a1-bb69-3cc44f36512d.json - it doesn't exist anymore?
+[18:29:51] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/gray_stained_glass' in progress file ./world/advancements/f4da8875-445c-40a1-bb69-3cc44f36512d.json - it doesn't exist anymore?
+[18:29:51] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/purple_stained_glass' in progress file ./world/advancements/f4da8875-445c-40a1-bb69-3cc44f36512d.json - it doesn't exist anymore?
+[18:29:51] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/yellow_stained_glass' in progress file ./world/advancements/f4da8875-445c-40a1-bb69-3cc44f36512d.json - it doesn't exist anymore?
+[18:29:51] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/lime_stained_glass' in progress file ./world/advancements/f4da8875-445c-40a1-bb69-3cc44f36512d.json - it doesn't exist anymore?
+[18:29:51] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/glass_pane' in progress file ./world/advancements/f4da8875-445c-40a1-bb69-3cc44f36512d.json - it doesn't exist anymore?
+[18:29:51] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/magenta_stained_glass' in progress file ./world/advancements/f4da8875-445c-40a1-bb69-3cc44f36512d.json - it doesn't exist anymore?
+[18:29:51] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/white_stained_glass' in progress file ./world/advancements/f4da8875-445c-40a1-bb69-3cc44f36512d.json - it doesn't exist anymore?
+[18:29:53] [Server thread/INFO]: [Dr_MaxD: Reloading!]
+[18:29:53] [Server thread/INFO]: Loaded 0 recipes
+[18:29:53] [Server thread/INFO]: Loaded 0 advancements
+[18:30:59] [Server thread/INFO]: [Dr_MaxD: Applied enchantment Sharpness V to Dr_MaxD's item]
+[18:32:14] [Server thread/INFO]: [Dr_MaxD: The difficulty has been set to Peaceful]
+[18:32:20] [Server thread/INFO]: [Dr_MaxD: The difficulty has been set to Easy]
+[18:36:13] [Server thread/INFO]: [Dr_MaxD: Enabling data pack [vanilla (built-in)]]
+[18:36:13] [Server thread/INFO]: Loaded 1370 recipes
+[18:36:13] [Server thread/INFO]: Loaded 1481 advancements
+[18:37:06] [Server thread/INFO]: [Dr_MaxD: Disabling data pack [file/drmaxd (world)]]
+[18:37:06] [Server thread/INFO]: Loaded 1370 recipes
+[18:37:06] [Server thread/INFO]: Loaded 1481 advancements
+[18:37:15] [Server thread/INFO]: [Dr_MaxD: Enabling data pack [file/drmaxd (world)]]
+[18:37:16] [Server thread/INFO]: Loaded 1370 recipes
+[18:37:16] [Server thread/INFO]: Loaded 1481 advancements
+[18:37:22] [Server thread/INFO]: [Dr_MaxD: Reloading!]
+[18:37:22] [Server thread/INFO]: Loaded 1370 recipes
+[18:37:22] [Server thread/INFO]: Loaded 1481 advancements
+[18:48:31] [Server thread/INFO]: [Dr_MaxD: Reloading!]
+[18:48:32] [Server thread/INFO]: Loaded 1370 recipes
+[18:48:32] [Server thread/INFO]: Loaded 1481 advancements
+[18:48:44] [Server thread/INFO]: [Dr_MaxD: Reloading!]
+[18:48:44] [Server thread/INFO]: Loaded 1370 recipes
+[18:48:44] [Server thread/INFO]: Loaded 1481 advancements
