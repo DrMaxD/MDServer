@@ -1,0 +1,1 @@
+tellraw @a {"text": "Datapack created by DrMaxD", "color": "#a30000"}
